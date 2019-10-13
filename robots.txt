@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuicohghee.adamjohnston.co.uk/sitemap.xml
